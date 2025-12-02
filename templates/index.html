@@ -7,16 +7,14 @@
 </head>
 <body>
 
-<!-- ================= HERO SECTION ================= -->
 <section class="hero">
     <div class="hero-content">
-        <h1>Catch every flight deal with<br><span>‘Price Alerts’</span></h1>
-        <p>This flight price tracker will save you money on your next trip</p>
+        <h1>Catch every flight deal with<br><span>‘Price Alerts’ and ‘Saved’</span></h1>
+        <p>Why this flight price tracker will save you money on your next trip</p>
         <a href="#predict" class="hero-btn">Start Predicting</a>
     </div>
 </section>
 
-<!-- ================= APP SECTION ================= -->
 <section class="app-section" id="predict">
     <div class="glass-card">
         <h2>✈️ Flight Price Predictor</h2>
@@ -33,46 +31,63 @@
             </select>
 
             <label>Source</label>
-            <input type="text" name="Source" placeholder="Enter Source City" required>
+            <select name="Source" required>
+                <option>Dubai</option>
+                <option>London</option>
+                <option>Tokyo</option>
+                <option>Paris</option>
+                <option>Singapore</option>
+                <option>New York</option>
+                <option>Berlin</option>
+            </select>
 
             <label>Destination</label>
-            <input type="text" name="Destination" placeholder="Enter Destination City" required>
+            <select name="Destination" required>
+                <option>London</option>
+                <option>Tokyo</option>
+                <option>Paris</option>
+                <option>Dubai</option>
+                <option>Singapore</option>
+                <option>Toronto</option>
+                <option>New York</option>
+                <option>Hong Kong</option>
+            </select>
 
             <div class="row">
                 <div>
                     <label>Journey Day</label>
-                    <input type="number" name="Journey_Day" required>
+                    <input type="number" name="Journey_Day" required min="1" max="31">
                 </div>
                 <div>
                     <label>Journey Month</label>
-                    <input type="number" name="Journey_Month" required>
+                    <input type="number" name="Journey_Month" required min="1" max="12">
                 </div>
             </div>
 
             <div class="row">
                 <div>
                     <label>Departure Hour</label>
-                    <input type="number" name="Dep_Hour" required>
+                    <input type="number" name="Dep_Hour" required min="0" max="23">
                 </div>
                 <div>
                     <label>Departure Minute</label>
-                    <input type="number" name="Dep_Min" required>
+                    <input type="number" name="Dep_Min" required min="0" max="59">
                 </div>
             </div>
 
             <div class="row">
                 <div>
                     <label>Arrival Hour</label>
-                    <input type="number" name="Arr_Hour" required>
+                    <input type="number" name="Arr_Hour" required min="0" max="23">
                 </div>
                 <div>
                     <label>Arrival Minute</label>
-                    <input type="number" name="Arr_Min" required>
+                    <input type="number" name="Arr_Min" required min="0" max="59">
                 </div>
             </div>
 
             <label>Duration (Hours)</label>
-            <input type="number" name="Duration" required>
+            <input type="number" name="Duration" required step="0.01">
 
             <label>Stops</label>
             <select name="Stops">
