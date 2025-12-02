@@ -1,0 +1,301 @@
+Airline,Source,Destination,Date_of_Journey,Departure_Time,Arrival_Time,Duration,Stops,Price,Class
+CloudJet,Tokyo,Dubai,15/05/2026,1:00,2:45,1.75,0,339,Business
+JetWorld,Tokyo,Dubai,04/12/2025,12:00,13:15,1.25,2,456,Business
+JetWorld,London,Singapore,25/09/2026,21:00,5:45,8.75,1,794,Business
+CloudJet,Sydney,Paris,24/08/2026,14:15,15:00,1.75,2,292,Economy
+SkyAir,New York,London,21/01/2026,0:15,4:15,4,0,306,Economy
+JetWorld,London,New York,29/07/2026,8:45,14:15,6.5,2,498,Economy
+GlobalFly,Hong Kong,Toronto,12/12/2025,2:30,5:00,3.5,0,281,Economy
+JetWorld,Dubai,Paris,25/04/2026,1:45,13:15,12.5,0,718,Economy
+SkyAir,Singapore,Tokyo,02/09/2026,22:45,3:30,5.75,1,420,Economy
+AirNova,Berlin,London,07/02/2026,6:45,10:45,4,1,395,Economy
+CloudJet,Paris,Hong Kong,26/11/2026,0:30,10:15,10.75,1,676,Economy
+CloudJet,Toronto,New York,14/07/2026,12:30,14:15,2.75,0,193,Economy
+SkyAir,Paris,Hong Kong,17/09/2026,13:30,0:15,11.75,2,750,Economy
+GlobalFly,Singapore,Sydney,10/01/2026,6:30,16:00,10.5,2,928,Business
+GlobalFly,Berlin,Paris,05/04/2026,9:45,18:30,9.75,2,683,Economy
+GlobalFly,London,Berlin,07/03/2026,13:30,19:00,6.5,1,465,Economy
+GlobalFly,Singapore,Tokyo,08/12/2025,20:45,6:15,10.5,2,696,Economy
+SkyAir,Tokyo,London,31/12/2025,20:00,3:00,7,0,475,Economy
+CloudJet,Tokyo,New York,19/04/2026,1:45,11:30,10.75,2,880,Business
+JetWorld,Sydney,Toronto,09/07/2026,22:45,2:45,4,0,284,Economy
+AirNova,Toronto,Sydney,24/03/2026,16:45,17:15,1.5,1,394,Business
+GlobalFly,New York,Toronto,07/05/2026,18:00,1:15,7.25,0,499,Economy
+SkyAir,London,New York,17/03/2026,22:45,4:00,6.25,2,506,Economy
+GlobalFly,London,Toronto,15/03/2026,15:00,21:45,6.75,2,750,Business
+CloudJet,Berlin,Hong Kong,25/11/2026,6:00,9:30,3.5,1,285,Economy
+CloudJet,New York,Sydney,20/01/2026,16:00,22:00,6,0,648,Business
+CloudJet,Hong Kong,Berlin,24/08/2026,10:00,15:15,5.25,2,699,Business
+JetWorld,Toronto,Paris,26/11/2026,11:15,23:45,12.5,0,700,Economy
+SkyAir,London,New York,22/12/2025,0:00,11:45,11.75,0,689,Economy
+AirNova,Dubai,Singapore,18/06/2026,21:30,8:45,11.25,2,982,Business
+SkyAir,Tokyo,Sydney,23/12/2025,20:15,4:00,8.75,2,805,Business
+SkyAir,Toronto,Tokyo,05/06/2026,8:15,15:45,7.5,2,734,Business
+AirNova,Singapore,London,06/12/2025,9:45,18:30,9.75,1,603,Economy
+JetWorld,London,New York,15/12/2025,14:45,22:30,8.75,1,779,Business
+GlobalFly,Paris,Tokyo,11/11/2026,2:00,11:30,9.5,0,751,Business
+AirNova,Singapore,Berlin,08/12/2025,4:45,15:00,11.25,2,947,Business
+CloudJet,Singapore,Sydney,21/10/2026,17:00,21:30,4.5,2,448,Economy
+CloudJet,Paris,Berlin,08/05/2026,2:00,9:15,7.25,0,632,Business
+JetWorld,Singapore,New York,04/11/2026,18:45,22:15,4.5,1,341,Economy
+SkyAir,New York,London,08/06/2026,4:45,14:15,10.5,1,845,Business
+CloudJet,Berlin,Paris,19/05/2026,4:15,14:15,10,0,623,Economy
+JetWorld,Sydney,Dubai,02/07/2026,16:45,18:45,2,1,436,Business
+JetWorld,Hong Kong,Paris,16/07/2026,3:45,6:45,3,1,347,Economy
+AirNova,Sydney,Berlin,10/03/2026,4:15,5:00,1.75,0,170,Economy
+SkyAir,Toronto,Singapore,03/01/2026,5:30,13:00,8.5,0,686,Business
+SkyAir,Berlin,New York,19/09/2026,2:15,8:45,6.5,0,400,Economy
+GlobalFly,London,Sydney,07/02/2026,6:45,10:30,4.75,2,401,Economy
+CloudJet,New York,Hong Kong,16/04/2026,21:45,1:45,4,2,582,Business
+GlobalFly,Tokyo,New York,18/09/2026,20:00,4:15,8.25,2,836,Business
+GlobalFly,London,Singapore,24/05/2026,2:15,9:45,7.5,2,580,Economy
+SkyAir,Paris,London,04/03/2026,14:00,0:15,10.25,0,587,Economy
+SkyAir,Dubai,London,20/06/2026,16:45,4:45,12,2,1034,Business
+SkyAir,Sydney,Toronto,29/10/2026,7:45,13:45,6,0,613,Business
+JetWorld,London,Tokyo,02/05/2026,0:00,9:45,9.75,0,587,Economy
+CloudJet,New York,Tokyo,03/06/2026,7:30,19:45,12.25,1,788,Economy
+AirNova,New York,Hong Kong,20/08/2026,0:30,5:45,5.25,1,390,Economy
+GlobalFly,New York,Tokyo,23/02/2026,2:30,7:00,5.5,2,683,Business
+JetWorld,Sydney,Tokyo,27/06/2026,5:45,12:45,7,2,531,Economy
+CloudJet,Berlin,Singapore,17/11/2026,23:45,2:15,3.5,0,438,Business
+SkyAir,Berlin,Tokyo,02/06/2026,7:30,9:30,2,1,281,Economy
+JetWorld,Singapore,London,18/06/2026,2:30,11:45,9.25,2,863,Business
+AirNova,London,Sydney,24/03/2026,1:00,4:30,3.5,0,250,Economy
+SkyAir,Toronto,Berlin,17/01/2026,18:45,1:15,7.5,2,560,Economy
+SkyAir,Dubai,London,18/06/2026,19:15,5:15,10,1,676,Economy
+JetWorld,Singapore,London,02/08/2026,14:15,15:30,1.25,0,344,Business
+JetWorld,London,Paris,16/09/2026,22:00,4:15,6.25,0,392,Economy
+SkyAir,Berlin,Hong Kong,12/03/2026,9:45,19:00,10.25,0,589,Economy
+SkyAir,Singapore,Paris,13/02/2026,2:00,5:00,3,2,342,Economy
+GlobalFly,Hong Kong,Tokyo,12/06/2026,20:30,23:15,3.75,2,376,Economy
+SkyAir,New York,Singapore,16/11/2026,22:45,4:45,6,0,391,Economy
+AirNova,Dubai,Sydney,19/12/2025,14:00,16:15,2.25,2,532,Business
+CloudJet,Paris,Singapore,18/06/2026,7:30,13:45,6.25,2,687,Business
+CloudJet,London,Toronto,16/02/2026,17:15,2:30,9.25,2,887,Business
+SkyAir,Paris,Hong Kong,15/04/2026,10:00,18:15,8.25,1,788,Business
+SkyAir,Paris,Berlin,04/01/2026,8:00,13:15,5.25,0,346,Economy
+GlobalFly,Paris,Berlin,01/08/2026,6:15,17:30,11.25,2,951,Business
+GlobalFly,Berlin,London,27/09/2026,3:00,9:30,6.5,0,617,Business
+JetWorld,Sydney,Berlin,03/12/2025,10:00,20:00,10,1,641,Economy
+SkyAir,London,Tokyo,17/05/2026,1:00,8:30,7.5,2,732,Business
+SkyAir,Berlin,Paris,23/09/2026,9:30,16:15,7.75,1,526,Economy
+GlobalFly,Hong Kong,Toronto,29/04/2026,19:00,7:15,12.25,0,918,Business
+AirNova,Berlin,Hong Kong,10/09/2026,0:30,10:30,10,0,836,Business
+CloudJet,Tokyo,Hong Kong,15/09/2026,9:15,13:15,4,2,443,Economy
+CloudJet,Sydney,New York,12/01/2026,13:30,18:15,5.75,1,414,Economy
+CloudJet,Toronto,Tokyo,25/10/2026,7:00,11:15,4.25,0,542,Business
+JetWorld,Dubai,London,23/09/2026,8:45,14:00,6.25,2,528,Economy
+SkyAir,Hong Kong,New York,24/11/2026,5:30,17:30,12,0,907,Business
+GlobalFly,New York,Hong Kong,02/11/2026,5:30,13:30,8,1,753,Business
+CloudJet,Sydney,New York,29/01/2026,22:15,0:15,2,2,312,Economy
+GlobalFly,London,Singapore,22/04/2026,19:30,22:45,3.25,2,571,Business
+CloudJet,Berlin,New York,11/04/2026,4:15,15:30,11.25,1,925,Business
+GlobalFly,Toronto,Singapore,20/11/2026,1:00,4:00,3,0,240,Economy
+CloudJet,New York,Paris,18/01/2026,11:00,23:00,12,0,698,Economy
+GlobalFly,London,Hong Kong,13/08/2026,2:45,4:00,2.25,1,258,Economy
+SkyAir,Sydney,Paris,07/03/2026,1:15,10:00,9.75,2,871,Business
+JetWorld,Hong Kong,Sydney,26/12/2025,2:30,8:30,6,2,545,Economy
+JetWorld,Dubai,Tokyo,07/06/2026,6:45,18:00,12.25,1,748,Economy
+SkyAir,Singapore,Dubai,16/02/2026,8:00,20:30,12.5,1,984,Business
+SkyAir,Dubai,New York,27/11/2026,10:30,12:15,2.75,0,435,Business
+GlobalFly,Tokyo,Sydney,04/09/2026,16:30,21:30,5,1,421,Economy
+CloudJet,Dubai,Hong Kong,23/12/2025,14:30,15:15,1.75,2,300,Economy
+AirNova,Singapore,New York,13/09/2026,3:00,15:30,12.5,2,1021,Business
+GlobalFly,Sydney,Dubai,17/04/2026,18:30,0:45,6.25,2,680,Business
+GlobalFly,Toronto,Sydney,01/04/2026,3:30,9:30,6,2,542,Economy
+AirNova,Singapore,London,11/07/2026,3:45,8:00,5.25,2,695,Business
+SkyAir,Toronto,London,09/01/2026,21:15,0:00,3.75,2,597,Business
+GlobalFly,Hong Kong,Paris,13/04/2026,1:30,3:15,2.75,2,334,Economy
+AirNova,London,Berlin,03/04/2026,8:15,10:30,2.25,0,420,Business
+SkyAir,Paris,New York,15/04/2026,19:45,0:15,5.5,1,445,Economy
+JetWorld,New York,Paris,17/09/2026,15:00,20:15,5.25,0,374,Economy
+AirNova,New York,Tokyo,27/01/2026,7:45,8:30,1.75,0,375,Business
+JetWorld,New York,Paris,11/03/2026,3:00,13:30,10.5,0,827,Business
+AirNova,Sydney,London,12/07/2026,15:15,17:45,2.5,0,199,Economy
+SkyAir,Hong Kong,London,08/02/2026,6:45,9:30,3.75,2,365,Economy
+GlobalFly,New York,Singapore,16/01/2026,6:00,15:15,9.25,0,557,Economy
+GlobalFly,London,Tokyo,14/09/2026,5:45,6:30,1.75,2,467,Business
+JetWorld,Sydney,London,08/12/2025,20:30,0:00,4.5,0,289,Economy
+GlobalFly,New York,Toronto,23/08/2026,16:45,1:00,9.25,0,544,Economy
+JetWorld,Singapore,Berlin,30/05/2026,13:45,20:00,7.25,1,509,Economy
+JetWorld,Hong Kong,Sydney,30/07/2026,3:45,11:00,8.25,0,687,Business
+JetWorld,Toronto,Hong Kong,14/12/2025,18:00,22:30,4.5,0,516,Business
+JetWorld,Dubai,Berlin,20/05/2026,22:00,3:45,5.75,0,332,Economy
+CloudJet,London,Tokyo,31/01/2026,8:45,9:15,1.5,2,294,Economy
+GlobalFly,Toronto,Sydney,07/09/2026,0:00,7:30,7.5,1,527,Economy
+CloudJet,Tokyo,Toronto,18/04/2026,3:45,8:45,5,2,444,Economy
+GlobalFly,London,Hong Kong,27/08/2026,16:15,18:30,2.25,1,251,Economy
+CloudJet,Paris,Sydney,03/06/2026,7:30,19:00,12.5,2,845,Economy
+CloudJet,Sydney,Tokyo,13/06/2026,6:00,17:30,11.5,0,862,Business
+SkyAir,Tokyo,Toronto,14/02/2026,11:00,14:30,3.5,0,234,Economy
+AirNova,Singapore,Hong Kong,26/07/2026,16:30,23:00,7.5,0,496,Economy
+CloudJet,Sydney,New York,19/08/2026,22:45,0:45,2,2,308,Economy
+SkyAir,Dubai,Berlin,30/03/2026,21:30,7:30,10,0,644,Economy
+AirNova,Berlin,Dubai,18/04/2026,17:30,19:30,2,1,274,Economy
+AirNova,Toronto,Paris,14/05/2026,9:30,13:00,4.5,0,491,Business
+JetWorld,London,New York,25/02/2026,20:15,4:00,8.75,1,576,Economy
+CloudJet,Paris,Dubai,12/06/2026,12:15,16:00,4.75,2,616,Business
+SkyAir,Paris,Tokyo,26/07/2026,23:15,2:00,3.75,0,497,Business
+SkyAir,New York,Toronto,29/08/2026,22:00,0:45,2.75,2,331,Economy
+AirNova,Dubai,Berlin,28/05/2026,8:45,20:00,12.25,1,969,Business
+GlobalFly,Hong Kong,Singapore,01/05/2026,21:00,5:15,8.25,2,837,Business
+CloudJet,Toronto,Sydney,31/03/2026,19:45,0:00,5.25,1,613,Business
+CloudJet,Singapore,New York,28/05/2026,1:30,12:00,11.5,0,657,Economy
+GlobalFly,Berlin,London,26/07/2026,19:45,6:15,11.5,0,879,Business
+SkyAir,New York,Dubai,17/07/2026,13:45,20:30,7.75,2,589,Economy
+AirNova,New York,Paris,17/10/2026,2:30,12:15,10.75,1,648,Economy
+GlobalFly,Hong Kong,Sydney,11/03/2026,15:00,1:00,10,0,805,Business
+SkyAir,London,Sydney,10/03/2026,18:30,21:45,3.25,0,470,Business
+JetWorld,Toronto,Singapore,15/04/2026,6:00,17:00,11,1,681,Economy
+GlobalFly,London,Dubai,25/05/2026,5:15,13:45,8.5,0,704,Business
+AirNova,Hong Kong,Singapore,13/03/2026,8:30,10:15,2.75,0,186,Economy
+JetWorld,Toronto,Tokyo,13/07/2026,18:00,4:30,10.5,1,834,Business
+CloudJet,Dubai,Berlin,15/08/2026,4:30,8:15,4.75,1,559,Business
+SkyAir,Dubai,Hong Kong,25/04/2026,17:00,22:15,5.25,0,573,Business
+GlobalFly,Paris,Toronto,11/09/2026,2:30,4:30,2,2,330,Economy
+AirNova,Dubai,New York,18/02/2026,0:30,11:00,11.5,2,980,Business
+AirNova,London,Berlin,21/11/2026,6:45,7:45,1,2,455,Business
+GlobalFly,Toronto,Paris,17/06/2026,7:15,13:00,6.75,0,584,Business
+JetWorld,Hong Kong,Toronto,18/10/2026,18:45,23:15,5.5,0,540,Business
+CloudJet,Tokyo,Paris,18/01/2026,18:45,21:45,3,2,575,Business
+JetWorld,New York,Berlin,17/02/2026,11:45,17:30,6.75,2,738,Business
+JetWorld,Sydney,Singapore,19/01/2026,9:30,21:15,12.75,1,793,Economy
+AirNova,Dubai,Tokyo,25/01/2026,0:30,1:00,1.5,2,245,Economy
+AirNova,London,New York,12/09/2026,1:30,12:15,11.75,2,931,Business
+JetWorld,Dubai,Toronto,09/03/2026,12:45,19:00,7.25,0,670,Business
+SkyAir,London,Hong Kong,16/04/2026,13:45,0:45,11,1,707,Economy
+SkyAir,Berlin,Toronto,25/10/2026,14:00,2:30,12.5,1,763,Economy
+SkyAir,Dubai,Singapore,30/09/2026,10:45,16:45,6,2,712,Business
+CloudJet,Singapore,Sydney,09/02/2026,17:45,23:30,6.75,1,467,Economy
+JetWorld,London,Tokyo,30/05/2026,9:30,21:15,12.75,1,985,Business
+SkyAir,Hong Kong,New York,19/08/2026,3:45,6:00,3.25,1,304,Economy
+JetWorld,New York,Toronto,24/01/2026,1:30,6:30,5,0,349,Economy
+CloudJet,Tokyo,Toronto,30/07/2026,14:15,23:00,9.75,0,542,Economy
+SkyAir,London,Paris,21/09/2026,19:15,3:30,8.25,2,601,Economy
+GlobalFly,Singapore,Sydney,01/12/2025,3:45,12:45,9,1,588,Economy
+CloudJet,Sydney,New York,16/04/2026,21:45,6:45,9,2,858,Business
+JetWorld,Sydney,New York,19/01/2026,16:45,20:00,4.25,0,322,Economy
+CloudJet,Berlin,Sydney,09/08/2026,17:00,5:00,12,1,778,Economy
+JetWorld,Singapore,New York,12/09/2026,2:30,9:30,7,1,519,Economy
+CloudJet,Paris,Dubai,07/12/2025,6:30,17:45,11.25,0,651,Economy
+GlobalFly,Singapore,Berlin,04/11/2026,5:45,11:00,6.25,0,630,Business
+SkyAir,Paris,Dubai,22/09/2026,16:30,4:00,12.5,0,723,Economy
+CloudJet,Toronto,New York,24/08/2026,20:30,7:45,11.25,0,889,Business
+JetWorld,Toronto,Sydney,23/04/2026,22:15,10:45,12.5,1,748,Economy
+AirNova,New York,Berlin,15/01/2026,7:45,13:45,6,1,431,Economy
+GlobalFly,Paris,London,16/09/2026,18:45,20:00,2.25,2,480,Business
+GlobalFly,New York,Singapore,25/01/2026,16:30,0:45,8.25,1,782,Business
+AirNova,London,Toronto,02/01/2026,2:00,8:30,6.5,2,732,Business
+CloudJet,Singapore,Hong Kong,28/11/2026,0:30,5:30,5,2,485,Economy
+CloudJet,New York,Toronto,06/09/2026,4:15,5:00,1.75,0,338,Business
+CloudJet,Paris,London,09/01/2026,8:15,20:15,12,0,884,Business
+SkyAir,London,Berlin,15/05/2026,5:30,15:15,10.75,2,901,Business
+GlobalFly,Tokyo,Toronto,24/02/2026,22:15,0:30,2.25,2,327,Economy
+CloudJet,Hong Kong,Tokyo,02/11/2026,17:45,5:30,12.75,2,1025,Business
+GlobalFly,Berlin,Tokyo,21/01/2026,14:45,17:15,3.5,2,591,Business
+JetWorld,New York,Singapore,29/11/2025,18:30,19:30,1,2,298,Economy
+AirNova,London,Toronto,14/02/2026,2:15,5:45,3.5,1,317,Economy
+SkyAir,Hong Kong,New York,19/04/2026,9:15,19:00,10.75,0,601,Economy
+GlobalFly,Sydney,Berlin,09/04/2026,23:15,8:15,9,0,551,Economy
+AirNova,Paris,Toronto,25/09/2026,7:15,12:30,5.25,1,414,Economy
+CloudJet,Dubai,Singapore,14/09/2026,10:30,17:00,7.5,2,543,Economy
+JetWorld,Toronto,Dubai,29/08/2026,2:30,5:15,3.75,1,323,Economy
+JetWorld,Toronto,Tokyo,25/04/2026,10:00,14:00,4,1,339,Economy
+AirNova,London,Berlin,19/03/2026,5:30,8:45,3.25,2,386,Economy
+GlobalFly,Berlin,New York,18/05/2026,3:00,11:30,8.5,1,564,Economy
+AirNova,New York,Singapore,27/07/2026,12:45,18:00,6.25,1,669,Business
+JetWorld,Dubai,Paris,02/06/2026,16:00,18:45,2.75,1,451,Business
+SkyAir,New York,London,04/08/2026,8:45,10:30,2.75,1,439,Business
+JetWorld,Berlin,Paris,22/05/2026,15:45,19:30,4.75,1,395,Economy
+AirNova,Tokyo,New York,18/10/2026,16:30,17:00,1.5,1,394,Business
+GlobalFly,Singapore,Dubai,25/09/2026,11:00,12:30,1.5,0,344,Business
+AirNova,Paris,New York,29/03/2026,22:45,9:45,11,0,857,Business
+JetWorld,New York,Paris,10/12/2025,15:30,22:00,7.5,2,530,Economy
+JetWorld,Tokyo,Hong Kong,03/12/2025,8:30,17:15,9.75,2,891,Business
+CloudJet,London,Berlin,18/07/2026,21:15,3:15,6,0,616,Business
+JetWorld,Sydney,Berlin,25/08/2026,17:00,4:00,11,0,863,Business
+AirNova,Toronto,Berlin,23/08/2026,19:45,5:30,10.75,2,732,Economy
+GlobalFly,Berlin,Hong Kong,19/09/2026,20:00,21:15,1.25,1,189,Economy
+AirNova,Paris,Berlin,13/04/2026,13:00,14:15,1.25,0,370,Business
+CloudJet,Tokyo,New York,17/03/2026,19:15,1:00,6.75,2,738,Business
+GlobalFly,Dubai,Sydney,12/11/2026,10:45,18:30,8.75,1,771,Business
+AirNova,Singapore,Sydney,14/11/2026,1:30,2:45,1.25,2,267,Economy
+CloudJet,Paris,Berlin,19/02/2026,8:30,12:15,4.75,0,550,Business
+CloudJet,New York,Sydney,14/03/2026,17:15,23:45,6.5,0,618,Business
+CloudJet,London,Tokyo,03/11/2026,20:00,7:45,11.75,2,800,Economy
+JetWorld,Dubai,Hong Kong,07/02/2026,0:15,1:30,1.25,2,480,Business
+JetWorld,Dubai,Singapore,27/09/2026,15:00,18:15,3.25,2,554,Business
+JetWorld,Sydney,New York,10/02/2026,20:45,0:15,4.5,1,391,Economy
+SkyAir,Toronto,Sydney,28/11/2026,5:45,13:30,8.75,1,799,Business
+CloudJet,Toronto,London,25/10/2026,23:45,1:30,2.75,0,193,Economy
+AirNova,London,Singapore,01/02/2026,16:30,23:00,7.5,1,494,Economy
+GlobalFly,Tokyo,New York,26/02/2026,10:00,17:15,7.25,2,760,Business
+GlobalFly,London,Dubai,06/04/2026,6:00,12:45,6.75,0,650,Business
+SkyAir,New York,Sydney,19/07/2026,19:00,5:45,10.75,2,729,Economy
+AirNova,Berlin,Sydney,12/03/2026,3:00,9:45,6.75,1,459,Economy
+AirNova,Hong Kong,Toronto,25/01/2026,7:15,11:00,4.75,2,398,Economy
+GlobalFly,Berlin,Toronto,16/01/2026,9:15,18:00,9.75,0,763,Business
+AirNova,London,Paris,22/12/2025,15:45,22:45,7,0,687,Business
+GlobalFly,Tokyo,Toronto,04/04/2026,19:15,6:30,11.25,1,931,Business
+AirNova,Tokyo,London,10/11/2026,6:00,7:45,1.75,2,255,Economy
+CloudJet,Toronto,Sydney,08/12/2025,22:00,1:00,3,1,491,Business
+CloudJet,Sydney,Hong Kong,25/12/2025,7:00,8:45,1.75,1,444,Business
+JetWorld,Sydney,London,01/10/2026,6:30,10:30,4,1,569,Business
+SkyAir,Tokyo,Paris,21/12/2025,2:30,12:30,10,2,690,Economy
+GlobalFly,Singapore,Berlin,06/12/2025,14:15,20:00,6.75,1,671,Business
+CloudJet,Paris,Toronto,04/07/2026,10:30,16:15,6.75,2,739,Business
+JetWorld,Sydney,Tokyo,20/12/2025,8:00,20:00,12,0,702,Economy
+CloudJet,Singapore,Tokyo,22/11/2026,11:30,19:15,8.75,0,498,Economy
+GlobalFly,Paris,London,15/04/2026,6:30,7:45,1.25,1,199,Economy
+AirNova,New York,Paris,13/08/2026,18:45,1:15,7.5,1,481,Economy
+AirNova,Singapore,Paris,04/12/2025,1:30,2:15,1.75,1,243,Economy
+GlobalFly,Sydney,New York,05/09/2026,23:00,9:45,10.75,1,899,Business
+SkyAir,Berlin,Toronto,20/02/2026,11:45,18:00,7.25,2,593,Economy
+JetWorld,Paris,Singapore,20/02/2026,10:45,14:30,4.75,1,558,Business
+SkyAir,Toronto,Hong Kong,14/01/2026,5:15,11:45,6.5,1,674,Business
+JetWorld,London,Paris,31/01/2026,16:00,23:15,7.25,2,753,Business
+GlobalFly,Dubai,London,20/05/2026,20:00,6:45,10.75,1,694,Economy
+JetWorld,London,Berlin,20/06/2026,8:00,11:15,3.25,0,278,Economy
+JetWorld,New York,London,14/04/2026,18:15,20:45,2.5,2,287,Economy
+CloudJet,Tokyo,New York,12/10/2026,15:30,23:30,8,2,782,Business
+AirNova,Toronto,Singapore,29/05/2026,13:45,14:30,1.75,1,234,Economy
+AirNova,London,Tokyo,19/09/2026,15:30,18:30,3,1,334,Economy
+GlobalFly,Tokyo,Hong Kong,15/05/2026,14:00,1:30,11.5,2,958,Business
+CloudJet,London,Dubai,23/12/2025,13:00,14:45,1.75,1,396,Business
+CloudJet,Toronto,New York,31/12/2025,9:15,16:30,7.25,2,533,Economy
+CloudJet,Tokyo,Paris,29/05/2026,14:15,2:15,12,1,765,Economy
+SkyAir,London,Sydney,08/11/2026,15:15,18:00,3.75,1,305,Economy
+JetWorld,Paris,New York,06/05/2026,22:30,23:30,1,2,287,Economy
+JetWorld,Hong Kong,Singapore,18/02/2026,15:00,18:15,3.25,0,285,Economy
+AirNova,Toronto,Sydney,01/08/2026,21:15,8:15,11,2,751,Economy
+SkyAir,Berlin,London,23/09/2026,4:15,16:30,12.25,1,970,Business
+SkyAir,Sydney,New York,08/04/2026,6:15,15:30,9.25,1,795,Business
+AirNova,London,Dubai,08/11/2026,12:30,23:00,11.5,1,686,Economy
+CloudJet,Singapore,Sydney,19/07/2026,16:15,2:30,10.25,1,861,Business
+GlobalFly,Singapore,Berlin,25/08/2026,16:30,21:00,5.5,1,440,Economy
+CloudJet,Toronto,Sydney,20/10/2026,6:45,16:00,10.25,0,814,Business
+AirNova,Toronto,New York,26/05/2026,0:00,6:45,6.75,1,670,Business
+JetWorld,Tokyo,Berlin,10/10/2026,20:45,6:45,10,0,783,Business
+GlobalFly,Berlin,Singapore,28/12/2025,23:15,4:15,5,0,366,Economy
+CloudJet,Sydney,Hong Kong,30/08/2026,2:00,9:30,7.5,1,540,Economy
+GlobalFly,Paris,Dubai,19/12/2025,15:00,21:45,6.75,1,673,Business
+CloudJet,Sydney,Toronto,06/04/2026,13:00,23:15,10.25,2,926,Business
+CloudJet,Sydney,London,14/05/2026,18:15,5:45,11.5,2,784,Economy
+SkyAir,New York,Sydney,27/12/2025,9:00,12:45,3.75,0,259,Economy
+JetWorld,Tokyo,Berlin,18/12/2025,21:30,3:45,6.25,2,697,Business
+CloudJet,Dubai,Tokyo,27/03/2026,7:15,12:45,5.5,2,656,Business
+GlobalFly,Tokyo,New York,30/06/2026,0:45,7:00,7.25,1,529,Economy
+GlobalFly,New York,Paris,06/05/2026,22:00,10:00,12,0,706,Economy
+JetWorld,Tokyo,London,22/01/2026,2:00,10:30,8.5,1,737,Business
+AirNova,Dubai,Toronto,09/01/2026,7:15,12:45,5.5,0,373,Economy
+GlobalFly,Singapore,London,16/10/2026,22:00,4:15,6.25,2,543,Economy
+JetWorld,Paris,London,07/02/2026,17:30,1:00,8.5,1,570,Economy
+CloudJet,Tokyo,London,22/07/2026,7:15,10:30,3.25,2,591,Business
+AirNova,Hong Kong,Sydney,13/03/2026,18:00,19:15,1.25,2,457,Business
+JetWorld,Berlin,London,18/04/2026,0:45,11:15,11.5,2,751,Economy
+SkyAir,Sydney,Toronto,23/11/2026,6:00,16:15,10.25,2,931,Business
+GlobalFly,Dubai,New York,26/05/2026,5:30,14:15,9.75,0,551,Economy
+JetWorld,Berlin,Tokyo,10/07/2026,3:30,14:00,11.5,2,751,Economy
+JetWorld,Tokyo,Singapore,25/01/2026,4:45,15:00,11.25,2,991,Business
+SkyAir,Dubai,Sydney,09/12/2025,22:45,5:45,7,0,660,Business
+SkyAir,New York,Singapore,17/03/2026,11:15,21:30,10.25,0,637,Economy
