@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Flight Price Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<!-- ================= HERO SECTION ================= -->
+<section class="hero">
+    <div class="hero-content">
+        <h1>Catch every flight deal with<br><span>‘Price Alerts’</span></h1>
+        <p>This flight price tracker will save you money on your next trip</p>
+        <a href="#predict" class="hero-btn">Start Predicting</a>
+    </div>
+</section>
+
+<!-- ================= APP SECTION ================= -->
+<section class="app-section" id="predict">
+    <div class="glass-card">
+        <h2>✈️ Flight Price Predictor</h2>
+
+        <form action="/predict" method="post">
+
+            <label>Airline</label>
+            <select name="Airline" required>
+                <option>SkyAir</option>
+                <option>CloudJet</option>
+                <option>JetWorld</option>
+                <option>GlobalFly</option>
+                <option>AirNova</option>
+            </select>
+
+            <label>Source</label>
+            <input type="text" name="Source" placeholder="Enter Source City" required>
+
+            <label>Destination</label>
+            <input type="text" name="Destination" placeholder="Enter Destination City" required>
+
+            <div class="row">
+                <div>
+                    <label>Journey Day</label>
+                    <input type="number" name="Journey_Day" required>
+                </div>
+                <div>
+                    <label>Journey Month</label>
+                    <input type="number" name="Journey_Month" required>
+                </div>
+            </div>
+
+            <div class="row">
+                <div>
+                    <label>Departure Hour</label>
+                    <input type="number" name="Dep_Hour" required>
+                </div>
+                <div>
+                    <label>Departure Minute</label>
+                    <input type="number" name="Dep_Min" required>
+                </div>
+            </div>
+
+            <div class="row">
+                <div>
+                    <label>Arrival Hour</label>
+                    <input type="number" name="Arr_Hour" required>
+                </div>
+                <div>
+                    <label>Arrival Minute</label>
+                    <input type="number" name="Arr_Min" required>
+                </div>
+            </div>
+
+            <label>Duration (Hours)</label>
+            <input type="number" name="Duration" required>
+
+            <label>Stops</label>
+            <select name="Stops">
+                <option value="0">Non-stop</option>
+                <option value="1">1 Stop</option>
+                <option value="2">2 Stops</option>
+            </select>
+
+            <label>Class</label>
+            <select name="Class">
+                <option value="0">Economy</option>
+                <option value="1">Business</option>
+            </select>
+
+            <button type="submit">Predict Price</button>
+        </form>
+
+        {% if prediction %}
+        <div class="result">
+            Predicted Price: <span>{{ prediction }}</span>
+        </div>
+        {% endif %}
+
+    </div>
+</section>
+
+</body>
+</html>
